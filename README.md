@@ -4,3 +4,5 @@ Utlizing OpenWeatherMap's API, weather from a random set of >500 cities was comp
 
 ![](weatherpy/LatitudeVsTemperature.png)
 ![](weatherpy/LatitudeVsHumidity.png)
+
+![](weatherpy/LatitudeVsCloudiness.png)
